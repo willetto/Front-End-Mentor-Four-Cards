@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/willetto/Front-End-Mentor-Four-Cards)
+- Live Site URL: [Add live site URL here](https://willetto.github.io/Front-End-Mentor-Four-Cards/)
 
 ## My process
 

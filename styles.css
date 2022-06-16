@@ -14,7 +14,7 @@
   Weights: 200, 400, 600 */
 }
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Poppins", sans-serif;
   background-color: var(--neutral-1);
   --accent-color: var(--cyan);
   --mobile-width: 19rem;
